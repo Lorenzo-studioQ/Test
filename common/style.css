@@ -1,0 +1,11 @@
+:root{
+    --bg-color: #a4a4ff;
+    --accent-color: #f70d68;
+}
+
+body{
+    font-family: 'Architects Daughter', cursive;
+  
+    line-height: 1.4;
+    color: black;
+}
